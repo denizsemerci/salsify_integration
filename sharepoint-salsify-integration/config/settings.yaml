@@ -1,0 +1,4 @@
+log_level: INFO
+poll_interval: 300
+max_retries: 3
+batch_size: 10
